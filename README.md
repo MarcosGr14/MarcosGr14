@@ -1,11 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FF4500,100:8B0000&height=200&section=header&text=Marcos%20Gait%C3%A1n&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=Ingenier%C3%ADa%20en%20Sistemas%20%E2%80%A2%20UTP&descAlignY=58&descSize=18" />
+  <img src="https://raw.githubusercontent.com/MarcosGr14/MarcosGr14/main/assets/banner.svg" width="100%" />
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=%C2%A1Hola%2C+soy+Marcos!+%F0%9F%94%A5;Java+%7C+Node.js+%7C+SQL;Constructor+de+proyectos+random+y+divertidos" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00FFF2&center=true&vCenter=true&width=600&lines=%C2%A1Hola%2C+soy+Marcos!+%E2%9A%A1;Java+%7C+Node.js+%7C+SQL;Constructor+de+proyectos+random+y+divertidos" alt="Typing SVG" />
 
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFF2,50:B46BFF,100:FF2ECB&height=3&width=1000" />
 </div>
 
 ### 👋 Sobre mí
@@ -13,7 +17,7 @@
 - 🎓 Estudiante de **Ingeniería en Sistemas** en la Universidad Tecnológica de Panamá (UTP)
 - 💻 Trabajo con **Java, Node.js, SQL (Oracle), JSP/Tomcat** y en proyectos personales con **React + Vite + Supabase**
 - 🌱 Ahora mismo migrando mi flujo de trabajo a **Linux (Kubuntu)**
-- 🎮 Fan de la musica, anime y los proyectos con temática *cozy/retro*
+- 🎮 Fan del K-pop, anime y los proyectos con temática *cozy/retro*
 - 📫 Contáctame por Discord o Instagram (abajo 👇)
 
 ---
@@ -21,28 +25,28 @@
 ### 🚀 Proyectos destacados
 
 <a href="https://github.com/MarcosGr14/spotify-duo-charts">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosGr14&repo=spotify-duo-charts&theme=radical&hide_border=true" />
+  <img align="left" src="https://github-readme-stats-blond-omega-46.vercel.app/api/pin/?username=MarcosGr14&repo=spotify-duo-charts&theme=radical&hide_border=true" />
 </a>
 <a href="https://github.com/MarcosGr14/kpop-gala-web">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosGr14&repo=kpop-gala-web&theme=radical&hide_border=true" />
+  <img align="left" src="https://github-readme-stats-blond-omega-46.vercel.app/api/pin/?username=MarcosGr14&repo=kpop-gala-web&theme=radical&hide_border=true" />
 </a>
 
 <br clear="left"/>
 
 <a href="https://github.com/MarcosGr14/Retro-Minesweeper-RPG">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosGr14&repo=Retro-Minesweeper-RPG&theme=radical&hide_border=true" />
+  <img align="left" src="https://github-readme-stats-blond-omega-46.vercel.app/api/pin/?username=MarcosGr14&repo=Retro-Minesweeper-RPG&theme=radical&hide_border=true" />
 </a>
 <a href="https://github.com/MarcosGr14/Saloon-Blackjack">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosGr14&repo=Saloon-Blackjack&theme=radical&hide_border=true" />
+  <img align="left" src="https://github-readme-stats-blond-omega-46.vercel.app/api/pin/?username=MarcosGr14&repo=Saloon-Blackjack&theme=radical&hide_border=true" />
 </a>
 
 <br clear="left"/>
 
 <a href="https://github.com/MarcosGr14/SID-FC-Sistema-de-Inventario-Digital-de-Fuentes-Contaminantes">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosGr14&repo=SID-FC-Sistema-de-Inventario-Digital-de-Fuentes-Contaminantes&theme=radical&hide_border=true" />
+  <img align="left" src="https://github-readme-stats-blond-omega-46.vercel.app/api/pin/?username=MarcosGr14&repo=SID-FC-Sistema-de-Inventario-Digital-de-Fuentes-Contaminantes&theme=radical&hide_border=true" />
 </a>
 <a href="https://github.com/MarcosGr14/Senderos-proyecto-final-Programacion-2">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosGr14&repo=Senderos-proyecto-final-Programacion-2&theme=radical&hide_border=true" />
+  <img align="left" src="https://github-readme-stats-blond-omega-46.vercel.app/api/pin/?username=MarcosGr14&repo=Senderos-proyecto-final-Programacion-2&theme=radical&hide_border=true" />
 </a>
 
 <br clear="left"/>
@@ -74,8 +78,8 @@
 ### 📊 Stats de GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MarcosGr14&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosGr14&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-blond-omega-46.vercel.app/api?username=MarcosGr14&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-blond-omega-46.vercel.app/api/top-langs/?username=MarcosGr14&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
@@ -87,7 +91,7 @@
 ### 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarcosGr14&theme=gitdimmed&no-frame=true&row=1&column=7&margin-w=8" />
+  <img src="https://github-profile-trophy-mu-eight.vercel.app/?username=MarcosGr14&theme=gitdimmed&no-frame=true&row=1&column=7&margin-w=8" />
 </div>
 
 ---
@@ -95,7 +99,7 @@
 ### 📈 Actividad reciente
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcosGr14&theme=redical&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph-six-blond.vercel.app/graph?username=MarcosGr14&theme=redical&hide_border=true&area=true" />
 </div>
 
 ---
@@ -112,5 +116,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00FFF2,50:B46BFF,100:FF2ECB&height=120&section=footer&animation=twinkling" />
 </div>
