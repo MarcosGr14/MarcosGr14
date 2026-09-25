@@ -86,13 +86,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosGr14&theme=radical&hide_border=true" />
 </div>
 
----
 
-### 🏆 Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy-mu-eight.vercel.app/?username=MarcosGr14&theme=gitdimmed&no-frame=true&row=1&column=7&margin-w=8" />
-</div>
 
 ---
 
