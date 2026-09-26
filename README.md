@@ -17,7 +17,7 @@
 - 🎓 Estudiante de **Ingeniería en Sistemas** en la Universidad Tecnológica de Panamá (UTP)
 - 💻 Trabajo con **Java, Node.js, SQL (Oracle), JSP/Tomcat** y en proyectos personales con **React + Vite + Supabase**
 - 🌱 Ahora mismo migrando mi flujo de trabajo a **Linux (Kubuntu)**
-- 🎮 Fan del K-pop, anime y los proyectos con temática *cozy/retro*
+- 🎮 Fan de la música, anime y los proyectos con temática *cozy/retro*
 - 📫 Contáctame por Discord o Instagram (abajo 👇)
 
 ---
